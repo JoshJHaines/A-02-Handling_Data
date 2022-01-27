@@ -1,7 +1,15 @@
 Explain what the ".map" properties of arrays does.
 
+Map is a collection of elements where each element is stored as a Key, value pair. Map object can hold both objects and primitive values as either key or value. When we iterate over the map object it returns the key, value pair in the same order as inserted.
+
 Explain what the ".reduce" properties of arrays does.
+
+The arr. reduce() method in JavaScript is used to reduce the array to a single value and executes a provided function for each value of the array (from left-to-right) and the return value of the function is stored in an accumulator.
 
 How is ".map" different from reduce?
 
+Generally "map" means converting a series of inputs to an equal length series of outputs while "reduce" means converting a series of inputs into a smaller number of outputs.
+
 What are "switch" statements?
+
+The switch statement evaluates an expression, matching the expression's value to a case clause, and executes statements associated with that case, as well as statements in cases that follow the matching case.
